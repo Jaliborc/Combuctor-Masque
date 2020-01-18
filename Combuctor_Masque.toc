@@ -1,0 +1,10 @@
+## Interface: 11303
+## Title: |cff20ff20Combuctor Masque|r
+## Notes: Allows Masque to skin Combuctor windows
+## Author: Jaliborc (João Cardoso)
+## X-Category: Inventory
+## X-License: GNU General Public License Version 3
+## Dependencies: Combuctor, Masque
+## Version: 8.3.0
+
+Combuctor_Masque.lua
